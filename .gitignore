@@ -1,0 +1,5 @@
+.env
+.package-lock
+/node_modules
+/.next/node_modules
+process.env
